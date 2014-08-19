@@ -1,0 +1,24 @@
+{
+    "name": "magetest/magento-test-doubles",
+    "description": "PHPSpec extension intended to provide TestDoubles for the Mage:: god class.",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "config": {
+      "bin-dir": "bin"
+    }
+    "authors": [
+        {
+            "name": "Allan MacGregor",
+            "email": "amacgregor@allanmacgregor.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.7",
+        "phpspec/phpspec": "~2.0",
+        "antecedent/patchwork": "*"
+    },
+    "require-dev": {
+      "behat/behat": "*",
+      "bossa/phpspec2-expect": "dev-master"
+    }
+}
