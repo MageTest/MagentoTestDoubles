@@ -5,7 +5,7 @@
     "minimum-stability": "dev",
     "config": {
       "bin-dir": "bin"
-    }
+    },
     "authors": [
         {
             "name": "Allan MacGregor",
